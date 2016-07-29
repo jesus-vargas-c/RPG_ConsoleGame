@@ -1,0 +1,6 @@
+c:\users\dotnet\documents\visual studio 2015\Projects\RPG_Console\RPG_Console\bin\Debug\RPG_Console.exe.config
+c:\users\dotnet\documents\visual studio 2015\Projects\RPG_Console\RPG_Console\obj\Debug\RPG_Console.csprojResolveAssemblyReference.cache
+c:\users\dotnet\documents\visual studio 2015\Projects\RPG_Console\RPG_Console\bin\Debug\RPG_Console.exe
+c:\users\dotnet\documents\visual studio 2015\Projects\RPG_Console\RPG_Console\bin\Debug\RPG_Console.pdb
+c:\users\dotnet\documents\visual studio 2015\Projects\RPG_Console\RPG_Console\obj\Debug\RPG_Console.exe
+c:\users\dotnet\documents\visual studio 2015\Projects\RPG_Console\RPG_Console\obj\Debug\RPG_Console.pdb
